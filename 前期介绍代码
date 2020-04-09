@@ -1,0 +1,376 @@
+3-amd64-virtual-Ubuntu12.04/objects:
+总用量 348
+-rw-r--r--. 1 root root  26872 6月  13 2019 vmblock.o
+-rw-r--r--. 1 root root 128672 6月  13 2019 vmci.o
+-rw-r--r--. 1 root root   1455 6月  13 2019 vmci.symvers
+-rw-r--r--. 1 root root  86584 6月  13 2019 vmhgfs.o
+-rw-r--r--. 1 root root  32376 6月  13 2019 vmxnet.o
+-rw-r--r--. 1 root root  69328 6月  13 2019 vsock.o
+
+vmware-tools-distrib/lib/modules/binary/bld-3.2.0-23-i386-generic-pae-Ubuntu12.04:
+总用量 8
+drwxr-xr-x. 2 root root 4096 6月  13 2019 objects
+-rw-r--r--. 1 root root  133 6月  13 2019 properties
+
+vmware-tools-distrib/lib/modules/binary/bld-3.2.0-23-i386-generic-pae-Ubuntu12.04/objects:
+总用量 228
+-rw-r--r--. 1 root root 16880 6月  13 2019 vmblock.o
+-rw-r--r--. 1 root root 80384 6月  13 2019 vmci.o
+-rw-r--r--. 1 root root  1455 6月  13 2019 vmci.symvers
+-rw-r--r--. 1 root root 54748 6月  13 2019 vmhgfs.o
+-rw-r--r--. 1 root root 23928 6月  13 2019 vmxnet.o
+-rw-r--r--. 1 root root 44104 6月  13 2019 vsock.o
+
+vmware-tools-distrib/lib/modules/binary/bld-3.2.0-23-i386-generic-Ubuntu12.04:
+总用量 8
+drwxr-xr-x. 2 root root 4096 6月  13 2019 objects
+-rw-r--r--. 1 root root  125 6月  13 2019 properties
+
+vmware-tools-distrib/lib/modules/binary/bld-3.2.0-23-i386-generic-Ubuntu12.04/objects:
+总用量 228
+-rw-r--r--. 1 root root 16880 6月  13 2019 vmblock.o
+-rw-r--r--. 1 root root 80152 6月  13 2019 vmci.o
+-rw-r--r--. 1 root root  1455 6月  13 2019 vmci.symvers
+-rw-r--r--. 1 root root 54748 6月  13 2019 vmhgfs.o
+-rw-r--r--. 1 root root 23736 6月  13 2019 vmxnet.o
+-rw-r--r--. 1 root root 44104 6月  13 2019 vsock.o
+
+vmware-tools-distrib/lib/modules/binary/bld-3.2.0-23-i386-virtual-Ubuntu12.04:
+总用量 8
+drwxr-xr-x. 2 root root 4096 6月  13 2019 objects
+-rw-r--r--. 1 root root  125 6月  13 2019 properties
+
+vmware-tools-distrib/lib/modules/binary/bld-3.2.0-23-i386-virtual-Ubuntu12.04/objects:
+总用量 228
+-rw-r--r--. 1 root root 16880 6月  13 2019 vmblock.o
+-rw-r--r--. 1 root root 80384 6月  13 2019 vmci.o
+-rw-r--r--. 1 root root  1455 6月  13 2019 vmci.symvers
+-rw-r--r--. 1 root root 54748 6月  13 2019 vmhgfs.o
+-rw-r--r--. 1 root root 23928 6月  13 2019 vmxnet.o
+-rw-r--r--. 1 root root 44104 6月  13 2019 vsock.o
+
+vmware-tools-distrib/lib/modules/binary/bld-3.2.0-29-amd64-generic-Ubuntu12.04.1:
+总用量 8
+drwxr-xr-x. 2 root root 4096 6月  13 2019 objects
+-rw-r--r--. 1 root root  137 6月  13 2019 properties
+
+vmware-tools-distrib/lib/modules/binary/bld-3.2.0-29-amd64-generic-Ubuntu12.04.1/objects:
+总用量 352
+-rw-r--r--. 1 root root  26872 6月  13 2019 vmblock.o
+-rw-r--r--. 1 root root 130176 6月  13 2019 vmci.o
+-rw-r--r--. 1 root root   1455 6月  13 2019 vmci.symvers
+-rw-r--r--. 1 root root  86872 6月  13 2019 vmhgfs.o
+-rw-r--r--. 1 root root  32408 6月  13 2019 vmxnet.o
+-rw-r--r--. 1 root root  69712 6月  13 2019 vsock.o
+
+vmware-tools-distrib/lib/modules/binary/bld-3.2.0-29-amd64-virtual-Ubuntu12.04.1:
+总用量 8
+drwxr-xr-x. 2 root root 4096 6月  13 2019 objects
+-rw-r--r--. 1 root root  137 6月  13 2019 properties
+
+vmware-tools-distrib/lib/modules/binary/bld-3.2.0-29-amd64-virtual-Ubuntu12.04.1/objects:
+总用量 348
+-rw-r--r--. 1 root root  26872 6月  13 2019 vmblock.o
+-rw-r--r--. 1 root root 128672 6月  13 2019 vmci.o
+-rw-r--r--. 1 root root   1455 6月  13 2019 vmci.symvers
+-rw-r--r--. 1 root root  86584 6月  13 2019 vmhgfs.o
+-rw-r--r--. 1 root root  32408 6月  13 2019 vmxnet.o
+-rw-r--r--. 1 root root  69328 6月  13 2019 vsock.o
+
+vmware-tools-distrib/lib/modules/binary/bld-3.2.0-29-i386-generic-pae-Ubuntu12.04.1:
+总用量 8
+drwxr-xr-x. 2 root root 4096 6月  13 2019 objects
+-rw-r--r--. 1 root root  135 6月  13 2019 properties
+
+vmware-tools-distrib/lib/modules/binary/bld-3.2.0-29-i386-generic-pae-Ubuntu12.04.1/objects:
+总用量 228
+-rw-r--r--. 1 root root 16880 6月  13 2019 vmblock.o
+-rw-r--r--. 1 root root 80384 6月  13 2019 vmci.o
+-rw-r--r--. 1 root root  1455 6月  13 2019 vmci.symvers
+-rw-r--r--. 1 root root 54748 6月  13 2019 vmhgfs.o
+-rw-r--r--. 1 root root 23928 6月  13 2019 vmxnet.o
+-rw-r--r--. 1 root root 44104 6月  13 2019 vsock.o
+
+vmware-tools-distrib/lib/modules/binary/bld-3.2.0-29-i386-generic-Ubuntu12.04.1:
+总用量 8
+drwxr-xr-x. 2 root root 4096 6月  13 2019 objects
+-rw-r--r--. 1 root root  127 6月  13 2019 properties
+
+vmware-tools-distrib/lib/modules/binary/bld-3.2.0-29-i386-generic-Ubuntu12.04.1/objects:
+总用量 228
+-rw-r--r--. 1 root root 16880 6月  13 2019 vmblock.o
+-rw-r--r--. 1 root root 80152 6月  13 2019 vmci.o
+-rw-r--r--. 1 root root  1455 6月  13 2019 vmci.symvers
+-rw-r--r--. 1 root root 54748 6月  13 2019 vmhgfs.o
+-rw-r--r--. 1 root root 23736 6月  13 2019 vmxnet.o
+-rw-r--r--. 1 root root 44104 6月  13 2019 vsock.o
+
+vmware-tools-distrib/lib/modules/binary/bld-3.2.0-29-i386-virtual-Ubuntu12.04.1:
+总用量 8
+drwxr-xr-x. 2 root root 4096 6月  13 2019 objects
+-rw-r--r--. 1 root root  127 6月  13 2019 properties
+
+vmware-tools-distrib/lib/modules/binary/bld-3.2.0-29-i386-virtual-Ubuntu12.04.1/objects:
+总用量 228
+-rw-r--r--. 1 root root 16880 6月  13 2019 vmblock.o
+-rw-r--r--. 1 root root 80384 6月  13 2019 vmci.o
+-rw-r--r--. 1 root root  1455 6月  13 2019 vmci.symvers
+-rw-r--r--. 1 root root 54748 6月  13 2019 vmhgfs.o
+-rw-r--r--. 1 root root 23928 6月  13 2019 vmxnet.o
+-rw-r--r--. 1 root root 44104 6月  13 2019 vsock.o
+
+vmware-tools-distrib/lib/modules/binary/bld-3.5.0-17-amd64-generic-Ubuntu12.10:
+总用量 8
+drwxr-xr-x. 2 root root 4096 6月  13 2019 objects
+-rw-r--r--. 1 root root  135 6月  13 2019 properties
+
+vmware-tools-distrib/lib/modules/binary/bld-3.5.0-17-amd64-generic-Ubuntu12.10/objects:
+总用量 292
+-rw-r--r--. 1 root root 130288 6月  13 2019 vmci.o
+-rw-r--r--. 1 root root   1455 6月  13 2019 vmci.symvers
+-rw-r--r--. 1 root root  86968 6月  13 2019 vmhgfs.o
+-rw-r--r--. 1 root root  69712 6月  13 2019 vsock.o
+
+vmware-tools-distrib/lib/modules/binary/bld-3.5.0-17-i386-generic-Ubuntu12.10:
+总用量 8
+drwxr-xr-x. 2 root root 4096 6月  13 2019 objects
+-rw-r--r--. 1 root root  125 6月  13 2019 properties
+
+vmware-tools-distrib/lib/modules/binary/bld-3.5.0-17-i386-generic-Ubuntu12.10/objects:
+总用量 184
+-rw-r--r--. 1 root root 80464 6月  13 2019 vmci.o
+-rw-r--r--. 1 root root  1455 6月  13 2019 vmci.symvers
+-rw-r--r--. 1 root root 54980 6月  13 2019 vmhgfs.o
+-rw-r--r--. 1 root root 44104 6月  13 2019 vsock.o
+
+vmware-tools-distrib/lib/modules/binary/bld-3.5.0-23-amd64-generic-Ubuntu12.04.2:
+总用量 8
+drwxr-xr-x. 2 root root 4096 6月  13 2019 objects
+-rw-r--r--. 1 root root  137 6月  13 2019 properties
+
+vmware-tools-distrib/lib/modules/binary/bld-3.5.0-23-amd64-generic-Ubuntu12.04.2/objects:
+总用量 292
+-rw-r--r--. 1 root root 130288 6月  13 2019 vmci.o
+-rw-r--r--. 1 root root   1455 6月  13 2019 vmci.symvers
+-rw-r--r--. 1 root root  86968 6月  13 2019 vmhgfs.o
+-rw-r--r--. 1 root root  69712 6月  13 2019 vsock.o
+
+vmware-tools-distrib/lib/modules/binary/bld-3.5.0-23-i386-generic-Ubuntu12.04.2:
+总用量 8
+drwxr-xr-x. 2 root root 4096 6月  13 2019 objects
+-rw-r--r--. 1 root root  127 6月  13 2019 properties
+
+vmware-tools-distrib/lib/modules/binary/bld-3.5.0-23-i386-generic-Ubuntu12.04.2/objects:
+总用量 184
+-rw-r--r--. 1 root root 80464 6月  13 2019 vmci.o
+-rw-r--r--. 1 root root  1455 6月  13 2019 vmci.symvers
+-rw-r--r--. 1 root root 54980 6月  13 2019 vmhgfs.o
+-rw-r--r--. 1 root root 44104 6月  13 2019 vsock.o
+
+vmware-tools-distrib/lib/modules/binary/bld-3.8.0-19-amd64-generic-Ubuntu13.04:
+总用量 8
+drwxr-xr-x. 2 root root 4096 6月  13 2019 objects
+-rw-r--r--. 1 root root  135 6月  13 2019 properties
+
+vmware-tools-distrib/lib/modules/binary/bld-3.8.0-19-amd64-generic-Ubuntu13.04/objects:
+总用量 288
+-rw-r--r--. 1 root root 129920 6月  13 2019 vmci.o
+-rw-r--r--. 1 root root   1455 6月  13 2019 vmci.symvers
+-rw-r--r--. 1 root root  87080 6月  13 2019 vmhgfs.o
+-rw-r--r--. 1 root root  69632 6月  13 2019 vsock.o
+
+vmware-tools-distrib/lib/modules/binary/bld-3.8.0-19-i386-generic-Ubuntu13.04:
+总用量 8
+drwxr-xr-x. 2 root root 4096 6月  13 2019 objects
+-rw-r--r--. 1 root root  125 6月  13 2019 properties
+
+vmware-tools-distrib/lib/modules/binary/bld-3.8.0-19-i386-generic-Ubuntu13.04/objects:
+总用量 184
+-rw-r--r--. 1 root root 80272 6月  13 2019 vmci.o
+-rw-r--r--. 1 root root  1455 6月  13 2019 vmci.symvers
+-rw-r--r--. 1 root root 55056 6月  13 2019 vmhgfs.o
+-rw-r--r--. 1 root root 44124 6月  13 2019 vsock.o
+
+vmware-tools-distrib/lib/modules/binary/bld-3.8.0-29-amd64-generic-Ubuntu12.04.3:
+总用量 8
+drwxr-xr-x. 2 root root 4096 6月  13 2019 objects
+-rw-r--r--. 1 root root  137 6月  13 2019 properties
+
+vmware-tools-distrib/lib/modules/binary/bld-3.8.0-29-amd64-generic-Ubuntu12.04.3/objects:
+总用量 288
+-rw-r--r--. 1 root root 129920 6月  13 2019 vmci.o
+-rw-r--r--. 1 root root   1455 6月  13 2019 vmci.symvers
+-rw-r--r--. 1 root root  87080 6月  13 2019 vmhgfs.o
+-rw-r--r--. 1 root root  69632 6月  13 2019 vsock.o
+
+vmware-tools-distrib/lib/modules/binary/bld-3.8.0-29-i386-generic-Ubuntu12.04.3:
+总用量 8
+drwxr-xr-x. 2 root root 4096 6月  13 2019 objects
+-rw-r--r--. 1 root root  127 6月  13 2019 properties
+
+vmware-tools-distrib/lib/modules/binary/bld-3.8.0-29-i386-generic-Ubuntu12.04.3/objects:
+总用量 184
+-rw-r--r--. 1 root root 80272 6月  13 2019 vmci.o
+-rw-r--r--. 1 root root  1455 6月  13 2019 vmci.symvers
+-rw-r--r--. 1 root root 55056 6月  13 2019 vmhgfs.o
+-rw-r--r--. 1 root root 44124 6月  13 2019 vsock.o
+
+vmware-tools-distrib/lib/modules/source:
+总用量 9640
+-rw-r--r--. 1 root root 1034240 6月  13 2019 pvscsi.tar
+-rw-r--r--. 1 root root  880640 6月  13 2019 vmblock.tar
+-rw-r--r--. 1 root root 1341440 6月  13 2019 vmci.tar
+-rw-r--r--. 1 root root 1515520 6月  13 2019 vmhgfs.tar
+-rw-r--r--. 1 root root  952320 6月  13 2019 vmmemctl.tar
+-rw-r--r--. 1 root root  829440 6月  13 2019 vmsync.tar
+-rw-r--r--. 1 root root 1146880 6月  13 2019 vmxnet3.tar
+-rw-r--r--. 1 root root 1013760 6月  13 2019 vmxnet.tar
+-rw-r--r--. 1 root root 1146880 6月  13 2019 vsock.tar
+
+vmware-tools-distrib/lib/plugins32:
+总用量 12
+drwxr-xr-x. 2 root root 4096 6月  13 2019 common
+drwxr-xr-x. 2 root root 4096 6月  13 2019 vmsvc
+drwxr-xr-x. 2 root root 4096 6月  13 2019 vmusr
+
+vmware-tools-distrib/lib/plugins32/common:
+总用量 268
+-rwxr-xr-x. 1 root root   9356 6月  13 2019 libhgfsServer.so
+-rwxr-xr-x. 1 root root 261468 6月  13 2019 libvix.so
+
+vmware-tools-distrib/lib/plugins32/vmsvc:
+总用量 1236
+-rwxr-xr-x. 1 root root    9356 6月  13 2019 libautoUpgrade.so
+-rwxr-xr-x. 1 root root   13452 6月  13 2019 libdeployPkgPlugin.so
+-rwxr-xr-x. 1 root root 1078668 6月  13 2019 libgrabbitmqProxy.so
+-rwxr-xr-x. 1 root root   59232 6月  13 2019 libguestInfo.so
+-rwxr-xr-x. 1 root root    9408 6月  13 2019 libpowerOps.so
+-rwxr-xr-x. 1 root root   17752 6月  13 2019 libresolutionKMS.so
+-rwxr-xr-x. 1 root root   21644 6月  13 2019 libtimeSync.so
+-rwxr-xr-x. 1 root root   34132 6月  13 2019 libvmbackup.so
+
+vmware-tools-distrib/lib/plugins32/vmusr:
+总用量 464
+-rwxr-xr-x. 1 root root  17752 6月  13 2019 libdesktopEvents.so
+-rwxr-xr-x. 1 root root 414944 6月  13 2019 libdndcp.so
+-rwxr-xr-x. 1 root root  34184 6月  13 2019 libresolutionSet.so
+
+vmware-tools-distrib/lib/plugins64:
+总用量 12
+drwxr-xr-x. 2 root root 4096 6月  13 2019 common
+drwxr-xr-x. 2 root root 4096 6月  13 2019 vmsvc
+drwxr-xr-x. 2 root root 4096 6月  13 2019 vmusr
+
+vmware-tools-distrib/lib/plugins64/common:
+总用量 288
+-rwxr-xr-x. 1 root root   9976 6月  13 2019 libhgfsServer.so
+-rwxr-xr-x. 1 root root 282248 6月  13 2019 libvix.so
+
+vmware-tools-distrib/lib/plugins64/vmsvc:
+总用量 1308
+-rwxr-xr-x. 1 root root    9976 6月  13 2019 libautoUpgrade.so
+-rwxr-xr-x. 1 root root   14072 6月  13 2019 libdeployPkgPlugin.so
+-rwxr-xr-x. 1 root root 1149064 6月  13 2019 libgrabbitmqProxy.so
+-rwxr-xr-x. 1 root root   60376 6月  13 2019 libguestInfo.so
+-rwxr-xr-x. 1 root root   14152 6月  13 2019 libpowerOps.so
+-rwxr-xr-x. 1 root root   18520 6月  13 2019 libresolutionKMS.so
+-rwxr-xr-x. 1 root root   18168 6月  13 2019 libtimeSync.so
+-rwxr-xr-x. 1 root root   38984 6月  13 2019 libvmbackup.so
+
+vmware-tools-distrib/lib/plugins64/vmusr:
+总用量 488
+-rwxr-xr-x. 1 root root  22608 6月  13 2019 libdesktopEvents.so
+-rwxr-xr-x. 1 root root 436072 6月  13 2019 libdndcp.so
+-rwxr-xr-x. 1 root root  35032 6月  13 2019 libresolutionSet.so
+
+vmware-tools-distrib/lib/sbin32:
+总用量 80
+-rwxr-xr-x. 1 root root 21788 6月  13 2019 vmware-checkvm
+-rwxr-xr-x. 1 root root 34076 6月  13 2019 vmware-hgfsmounter
+-rwxr-xr-x. 1 root root 17588 6月  13 2019 vmware-rpctool
+
+vmware-tools-distrib/lib/sbin64:
+总用量 84
+-rwxr-xr-x. 1 root root 22448 6月  13 2019 vmware-checkvm
+-rwxr-xr-x. 1 root root 38832 6月  13 2019 vmware-hgfsmounter
+-rwxr-xr-x. 1 root root 18200 6月  13 2019 vmware-rpctool
+
+vmware-tools-distrib/vgauth:
+总用量 4
+drwxr-xr-x. 2 root root 4096 6月  13 2019 schemas
+
+vmware-tools-distrib/vgauth/schemas:
+总用量 176
+-rw-r--r--. 1 root root   473 6月  13 2019 catalog.xml
+-rw-r--r--. 1 root root  6356 6月  13 2019 datatypes.dtd
+-rw-r--r--. 1 root root 13160 6月  13 2019 saml-schema-assertion-2.0.xsd
+-rw-r--r--. 1 root root  5146 6月  13 2019 xenc-schema.xsd
+-rw-r--r--. 1 root root 10144 6月  13 2019 xmldsig-core-schema.xsd
+-rw-r--r--. 1 root root 16072 6月  13 2019 XMLSchema.dtd
+-rw-r--r--. 1 root root  5783 6月  13 2019 XMLSchema-hasFacetAndProperty.xsd
+-rw-r--r--. 1 root root  1215 6月  13 2019 XMLSchema-instance.xsd
+-rw-r--r--. 1 root root 86435 6月  13 2019 XMLSchema.xsd
+-rw-r--r--. 1 root root  8768 6月  13 2019 xml.xsd
+[root@localhost ~]# cd vmware-tools-distrib/
+[root@localhost vmware-tools-distrib]# ls
+bin  doc  FILES    installer  vgauth
+caf  etc  INSTALL  lib        vmware-install.pl
+[root@localhost vmware-tools-distrib]# cd /root
+[root@localhost ~]# ls -l -d vmware-tools-distrib/
+drwxr-xr-x. 9 root root 4096 6月  13 2019 vmware-tools-distrib/
+[root@localhost ~]# cd /etc/sysc
+sysconfig/   sysctl.conf  sysctl.d/
+[root@localhost ~]# cd /etc/sysconfig/n
+netconsole       nfs
+network          nspluginwrapper
+networking/      ntpd
+network-scripts/ ntpdate
+[root@localhost ~]# cd /etc/sysconfig/network-scripts/
+[root@localhost network-scripts]# pwd
+/etc/sysconfig/network-scripts
+[root@localhost network-scripts]# ls
+ifcfg-eth0     ifup-eth
+ifcfg-lo       ifup-ib
+ifdown         ifup-ippp
+ifdown-bnep    ifup-ipv6
+ifdown-eth     ifup-isdn
+ifdown-ib      ifup-plip
+ifdown-ippp    ifup-plusb
+ifdown-ipv6    ifup-post
+ifdown-isdn    ifup-ppp
+ifdown-post    ifup-routes
+ifdown-ppp     ifup-sit
+ifdown-routes  ifup-tunnel
+ifdown-sit     ifup-wireless
+ifdown-tunnel  init.ipv6-global
+ifup           net.hotplug
+ifup-aliases   network-functions
+ifup-bnep      network-functions-ipv6
+[root@localhost network-scripts]# ls -a
+.            ifdown-ppp     ifup-plip
+..           ifdown-routes  ifup-plusb
+ifcfg-eth0   ifdown-sit     ifup-post
+ifcfg-lo     ifdown-tunnel  ifup-ppp
+ifdown       ifup           ifup-routes
+ifdown-bnep  ifup-aliases   ifup-sit
+ifdown-eth   ifup-bnep      ifup-tunnel
+ifdown-ib    ifup-eth       ifup-wireless
+ifdown-ippp  ifup-ib        init.ipv6-global
+ifdown-ipv6  ifup-ippp      net.hotplug
+ifdown-isdn  ifup-ipv6      network-functions
+ifdown-post  ifup-isdn      network-functions-ipv6
+[root@localhost network-scripts]# cd .
+[root@localhost network-scripts]# pwd
+/etc/sysconfig/network-scripts
+[root@localhost network-scripts]# cd ..
+[root@localhost sysconfig]# pwd
+/etc/sysconfig
+[root@localhost sysconfig]# cd ./network-scripts/
+[root@localhost network-scripts]# pwd
+/etc/sysconfig/network-scripts
+[root@localhost network-scripts]# cd ..
+[root@localhost sysconfig]# cd ..
+[root@localhost etc]# cd ..
+[root@localhost /]# cd ..
+[root@localhost /]# cd /root
+[root@localhost ~]# 
