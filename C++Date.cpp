@@ -130,7 +130,7 @@ public:
 		if (_year > date._year) {
 			return true;
 		}
-		else if (_yaer == date._year) {
+		else if (_year == date._year) {
 			if (_month > date._month) {
 				return true;
 			}
@@ -162,7 +162,7 @@ public:
 	}
 
 	void PrintDate() {//等价于PrintDate（Date* const this）
-		cout << _year << " " << _month << " " << _day << endll;
+		cout << _year << " " << _month << " " << _day << endl;
 		//可以修改内容
 		//this->_year=100;
 		//可以调用const成员
